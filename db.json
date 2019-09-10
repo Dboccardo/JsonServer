@@ -1,14 +1,24 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "Csd": [
+    { "env": imisft1, "port": "10161" },
+    { "env": imisft2, "port": "10162" },
+    { "env": imisft3, "port": "10163" },
+    { "env": isp1, "port": "10241" },
+    { "env": imi1, "port": "10141" }
+
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "RtceGui": [
+    { "env": imisft1, "port": "10131" },
+    { "env": imisft2, "port": "10132" },
+    { "env": imisft3, "port": "10133" },
+    { "env": isp1, "port": "10211" },
+    { "env": imi1, "port": "10141" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Rtce": [
+    { "env": imisft1, "port": "9131" },
+    { "env": imisft2, "port": "9132" },
+    { "env": imisft3, "port": "9133" },
+    { "env": isp1, "port": "9211" },
+    { "env": imi1, "port": "9111" }
+  ]
 }
