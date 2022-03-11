@@ -21,10 +21,10 @@
     { "env": "imi1", "port": "9111" }
   ]
   "Activity" : [
- {"name": "Security Trading Dept", "entryDate": null, "user": "Marco", "status": false, "thumb": null},
- {"name": "Security Banking Dept", "entryDate": null, "user": "Anna", "status": false, "thumb": null},
- {"name": "Derivatives Trading Dept", "entryDate": null, "user": "Luigi", "status": false, "thumb": null},
- {"name": "Derivatives Banking Dept", "entryDate": null, "user": "Sara", "status": false, "thumb": null},
+ {"name": "Security Trading Dept", "entryDate": null, "user": "Marco", "status": false, "thumb": },
+ {"name": "Security Banking Dept", "entryDate": null, "user": "Anna", "status": false, "thumb": },
+ {"name": "Derivatives Trading Dept", "entryDate": null, "user": "Luigi", "status": false, "thumb": },
+ {"name": "Derivatives Banking Dept", "entryDate": null, "user": "Sara", "status": false, "thumb": },
   
   
   ]
