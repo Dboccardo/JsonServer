@@ -19,7 +19,7 @@
     { "env": "imisft3", "port": "9133" },
     { "env": "isp1", "port": "9211" },
     { "env": "imi1", "port": "9111" }
-  ]
+  ] ,
   "Activity" : [
  {"name": "Security Trading Dept", "entryDate": null, "user": "Marco", "status": false, "thumb": },
  {"name": "Security Banking Dept", "entryDate": null, "user": "Anna", "status": false, "thumb": },
